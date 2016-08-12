@@ -1,0 +1,19 @@
+{
+  "name": "gulp-pug-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "Gulp, Sass + Pug Templates",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-plumber": "^1.1.0",
+    "beepbeep": "^1.2.0",
+    "browser-sync": "^2.14.0",
+    "gulp-pug": "^3.0.4",
+    "gulp-sass": "^2.3.2"
+  }
+}
